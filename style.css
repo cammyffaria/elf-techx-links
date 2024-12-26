@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    font-family: 'Open Sans', serif;
+    background-color: #d8e5e8;
+}
+
+:root{
+    cinza: #d8e5e8;
+    azul: #a2c6cf;
+    cinza-escuro: #213338;
+    branco: #ffffff;
+    vinho: #400e15;
+    rosa: #e03685;
+    vermelho: #ff0026;
+}
+
+h2{
+    color: #213338;
+    font-size: 50px;
+    padding-bottom: 1%;
+    display: flex;
+    justify-content: center;
+}
+
+.icon{
+    max-width: 250px;
+    padding-bottom: 1%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin: 0 auto;
+}
+
+h3{
+    color: #213338;
+    font-size: 150%;
+    display: flex;
+    justify-content: center;
+}
+
+.tik-tok{
+    color: #213338;
+}
+
+.youtube{
+    color:#ff0026
+}
+
+.instagram{
+    color: #e03685;
+}
+
+.github{
+    color:#213338
+}
+
+footer{
+    color:#a2c6cf
+}
+
+p{
+    display: flex;
+    font-size: 85%;
+    justify-content: center;
+}
+
+.sociais{
+    display: flex;
+    gap: .7rem;
+    justify-content: center;
+}
